@@ -22,6 +22,7 @@ Built Java and Python workflows to generate high-quality datasets and contribute
 Java • Python • Maven • SootUp • Static Analysis
 
 ➡️ **Paper Submission:** [CoCoMUT (arXiv)](https://arxiv.org/abs/2606.31971)
+
 🔒 **Repository:** Private (research code is not publicly available)
 
 ## 📈 Quant Analyzer — Financial Data Analytics Platform
