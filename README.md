@@ -21,7 +21,7 @@ Built Java and Python workflows to generate high-quality datasets and contribute
 **Tech**
 Java • Python • Maven • SootUp • Static Analysis
 
-➡️ **Paper Submission:** [CoCoMUT (arXiv)](https://arxiv.org/abs/2606.31971)
+➡️ **Research Paper:** [CoCoMUT (arXiv)](https://arxiv.org/abs/2606.31971)
 
 🔒 **Repository:** Private (research code is not publicly available)
 
@@ -85,7 +85,7 @@ Python • Streamlit • RAG • JSON • pytest • AI Workflow Design • Soft
 
 📧 Email: **ajayavardhini@gmail.com**
 
-💼 LinkedIn: **www.linkedin.com/in/jaya-vardhini-akurathi**
+💼 LinkedIn: [linkedin.com/in/jaya-vardhini-akurathi](https://www.linkedin.com/in/jaya-vardhini-akurathi/)
 
 ---
 
