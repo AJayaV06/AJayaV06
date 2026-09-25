@@ -6,7 +6,7 @@
 
 I enjoy building intelligent systems that solve real-world problems. My interests span machine learning, large language models (LLMs), software engineering, and AI-powered automation, with a focus on developing solutions that bridge research and real-world applications.
 
-Currently, I'm a **Break Through Tech AI Studio Fellow**, where I work on industry-sponsored AI projects, and a former **Software Engineering Research Assistant** at UT Dallas, where I contributed to research on AI-assisted software engineering and co-authored the **CoCoMUT** publication.
+Currently, I'm a **Break Through Tech AI Studio Fellow**, where I work on industry-sponsored AI projects, and a former **Software Engineering Research Student** at UT Dallas, where I contributed to research on AI-assisted software engineering and co-authored the **CoCoMUT** publication.
 
 I'm always exploring new technologies, building projects, and looking for opportunities to collaborate on impactful AI and software engineering solutions.
 
