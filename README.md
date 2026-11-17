@@ -13,8 +13,7 @@ I'm always exploring new technologies, building projects, and looking for opport
 # 🎯 Featured Projects
 
 ## Speech Background Noise Suppression — MathWorks × Break Through Tech
-Dev
-eloped a deep learning pipeline to reduce background noise in speech recordings using spectrograms, improving audio quality while preserving speech clarity.
+Developed a deep learning pipeline to reduce background noise in speech recordings using spectrograms, improving audio quality while preserving speech clarity.
 
 Highlights
 - Researched audio representations and selected spectrograms for model training
